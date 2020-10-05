@@ -1,0 +1,1127 @@
+{	
+	"AppSize" : {
+		"Width": "370",
+		"Height": "580",
+		"BackgroundColor": "30, 30, 30"
+	},
+	"Items" : [
+		{
+			"Name" : "Deku",
+			"X" : "3",
+			"Y" : "3",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Deku_Mask_Icon_bw.png",
+				"./MM/MM3D_Deku_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "Goron",
+			"X" : "3",
+			"Y" : "38",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Goron_Mask_Icon_bw.png",
+				"./MM/MM3D_Goron_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "Zora",
+			"X" : "3",
+			"Y" : "73",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Zora_Mask_Icon_bw.png",
+				"./MM/MM3D_Zora_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "Hookshot",
+			"X" : "38",
+			"Y" : "38",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Hookshot_Icon_bw.png",
+				"./MM/MM3D_Hookshot_Icon.png"
+			]
+		},
+		{
+			"Name": "Bow",
+			"X" : "38",
+			"Y" : "3",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Bow_Icon_bw.png",
+				"./MM/MM3D_Bow_Icon.png"
+			]
+		},
+		{
+			"Name" : "FireArrows",
+			"X" : "73",
+			"Y" : "3",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/OoT3D_Fire_Arrow_Icon_bw.png",
+				"./MM/OoT3D_Fire_Arrow_Icon.png"
+			]
+		},
+		{
+			"Name" : "IceArrows",
+			"X" : "108",
+			"Y" : "3",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/OoT3D_Ice_Arrow_Icon_bw.png",
+				"./MM/OoT3D_Ice_Arrow_Icon.png"
+			]
+		},
+		{
+			"Name" : "LightArrows",
+			"X" : "143",
+			"Y" : "3",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/OoT3D_Light_Arrow_Icon_bw.png",
+				"./MM/OoT3D_Light_Arrow_Icon.png"
+			]
+		},		
+		{
+			"Name" : "beans",
+			"X" : "178",
+			"Y" : "38",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/OoT3D_Magic_Bean_Icon_bw.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"
+			]
+		},
+		{
+			"Name" : "Magic",
+			"X" : "73",
+			"Y" : "38",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/magic_bw.png",
+				"./MM/magic1.png",
+				"./MM/magic2.png"
+			]
+		},
+		{
+			"Name" : "MirrorShield",
+			"X" : "143",
+			"Y" : "38",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Mirror_Shield_Icon_bw.png",
+				"./MM/MM3D_Mirror_Shield_Icon.png"
+			]
+		},	
+		{
+			"Name" : "Wallet",
+			"X" : "38",
+			"Y" : "73",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_adult_walltet-bw.png",
+				"./MM/OoT3D_Adult's_Wallet_Icon.png",
+				"./MM/OoT3D_Giant's_Wallet_Icon.png"
+			]
+		},
+		{
+			"Name" : "Pictbox",
+			"X" : "3",
+			"Y" : "73",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"wallet-bw_32x32.png",
+				"wallet2_32x32.png",
+				"wallet3_32x32.png"
+			]
+		},
+		{
+			"Name" : "GreatFairySword",
+			"X" : "178",
+			"Y" : "3",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Great_Fairy's_Sword_Icon_bw.png",
+				"./MM/MM3D_Great_Fairy's_Sword_Icon.png"
+			]
+		},
+		{
+			"Name" : "wallet",
+			"X" : "3",
+			"Y" : "38",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"wallet-bw_32x32.png",
+				"wallet2_32x32.png",
+				"wallet3_32x32.png"
+			]
+		},
+		{
+			"Name" : "Bottle2",
+			"X" : "0",
+			"Y" : "0",
+			"Size" : "30, 30",
+			"Visible" : "false",
+			"ImageCollection" : [
+				"bottle-empty-bw_32x32.png",
+				"bottle-empty_32x32.png",
+				"bottle-milk_32x32.png",
+				"bottle-green_32x32.png",
+				"bottle-red_32x32.png",
+				"bottle-blue_32x32.png",
+				"bottle-fairy_32x32.png",
+				"bottle-bugs_32x32.png",
+				"bottle-poe_32x32.png",
+				"bottle-big-poe_32x32.png",
+				"bottle-blue-fire_32x32.png",
+				"bottle-fish_32x32.png",
+				"bottle-rutos-letter-bw_32x32.png",
+				"bottle-rutos-letter_32x32.png"
+			]
+		},
+		{
+			"Name" : "Bombs",
+			"X" : "105",
+			"Y" : "38",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/OoT3D_Bomb_Icon_bw.png",
+				"./MM/OoT3D_Bomb_Icon.png"
+			]
+		},
+		{
+			"Name" : "Bottles",
+			"X" : "73",
+			"Y" : "73",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/OoT3D_Bottle_Icon_bw.png",
+				"./MM/OoT3D_Bottle_Icon_1.png",
+				"./MM/OoT3D_Bottle_Icon_2.png",
+				"./MM/OoT3D_Bottle_Icon_3.png",
+				"./MM/OoT3D_Bottle_Icon_4.png",
+				"./MM/OoT3D_Bottle_Icon_5.png",
+				"./MM/OoT3D_Bottle_Icon_6.png"
+			]
+		},
+		{
+			"Name" : "Powderkeg",
+			"X" : "108",
+			"Y" : "73",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Powder_Keg_Icon_bw.png",
+				"./MM/MM3D_Powder_Keg_Icon.png"
+			]
+		},
+		{
+			"Name" : "lens",
+			"X" : "143",
+			"Y" : "73",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Lens_of_Truth_Icon_bw.png",
+				"./MM/MM3D_Lens_of_Truth_Icon.png"
+			]
+		},
+		{
+			"Name" : "Pictbox",
+			"X" : "178",
+			"Y" : "73",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Pictograph_Box_Icon_bw.png",
+				"./MM/MM3D_Pictograph_Box_Icon.png"
+			]
+		},
+		{
+			"Name" : "KafeiMask",
+			"X" : "216",
+			"Y" : "3",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Kafei's_Mask_Icon_bw.png",
+				"./MM/MM3D_Kafei's_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "KeatonMask",
+			"X" : "251",
+			"Y" : "3",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Keaton_Mask_Icon_bw.png",
+				"./MM/MM3D_Keaton_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "BlastMask",
+			"X" : "251",
+			"Y" : "38",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Blast_Mask_Icon_bw.png",
+				"./MM/MM3D_Blast_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "CoupleMask",
+			"X" : "251",
+			"Y" : "73",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Couple's_Mask_Icon_bw.png",
+				"./MM/MM3D_Couple's_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "KamaroMask",
+			"X" : "286",
+			"Y" : "3",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Kamaro's_Mask_Icon_bw.png",
+				"./MM/MM3D_Kamaro's_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "MooMask",
+			"X" : "286",
+			"Y" : "38",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Romani's_Mask_Icon_bw.png",
+				"./MM/MM3D_Romani's_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "TruthMask",
+			"X" : "286",
+			"Y" : "73",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Truth_Mask_Icon_bw.png",
+				"./MM/MM3D_Truth_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "CaptainMask",
+			"X" : "321",
+			"Y" : "38",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Captain's_Hat_Icon_bw.png",
+				"./MM/MM3D_Captain's_Hat_Icon.png"
+			]
+		},
+		{
+			"Name" : "DeityMask",
+			"X" : "321",
+			"Y" : "73",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Fierce_Deity's_Mask_Icon_bw.png",
+				"./MM/MM3D_Fierce_Deity's_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "GaroGibdoMask",
+			"X" : "321",
+			"Y" : "3",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Garo's_Mask_Icon_bw.png",
+				"./MM/MM3D_Garo's_Mask_Icon.png",
+				"./MM/MM3D_Gibdo_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "BremenMask",
+			"X" : "216",
+			"Y" : "38",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Bremen_Mask_Icon_bw.png",
+				"./MM/MM3D_Bremen_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "AllNightMask",
+			"X" : "216",
+			"Y" : "73",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_All-Night_Mask_Icon_bw.png",
+				"./MM/MM3D_All-Night_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "RoomKey",
+			"X" : "158",
+			"Y" : "111",
+			"Size" : "25, 25",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Room_Key_Icon_bw.png",
+				"./MM/MM3D_Room_Key_Icon.png"
+			]
+		},
+		{
+			"Name" : "MoonTear",
+			"X" : "158",
+			"Y" : "138",
+			"Size" : "25, 25",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Moon's_Tear_Icon_bw.png",
+				"./MM/MM3D_Moon's_Tear_Icon.png"
+			]
+		},
+		{
+			"Name" : "LandDeed",
+			"X" : "158",
+			"Y" : "167",
+			"Size" : "25, 25",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Land_Title_Deed_Icon_bw.png",
+				"./MM/MM3D_Land_Title_Deed_Icon.png"
+			]
+		},
+		{
+			"Name" : "SwampDeed",
+			"X" : "158",
+			"Y" : "194",
+			"Size" : "25, 25",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Swamp_Title_Deed_Icon_bw.png",
+				"./MM/MM3D_Swamp_Title_Deed_Icon.png"
+			]
+		},
+		{
+			"Name" : "MountainDeed",
+			"X" : "158",
+			"Y" : "221",
+			"Size" : "25, 25",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Mountain_Title_Deed_Icon_bw.png",
+				"./MM/MM3D_Mountain_Title_Deed_Icon.png"
+			]
+		},
+		{
+			"Name" : "OceanDeed",
+			"X" : "158",
+			"Y" : "248",
+			"Size" : "25, 25",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Ocean_Title_Deed_Icon_bw.png",
+				"./MM/MM3D_Ocean_Title_Deed_Icon.png"
+			]
+		},
+		{
+			"Name" : "Odolwa",
+			"X" : "13",
+			"Y" : "195",
+			"Size" : "32, 32",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/odolwa_bw.png",
+				"./MM/odolwa.png"
+			]
+		},
+		{
+			"Name" : "Goth",
+			"X" : "13",
+			"Y" : "234",
+			"Size" : "32, 32",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/goth_bw.png",
+				"./MM/goth.png"
+			]
+		},
+		{
+			"Name" : "Gyorg",
+			"X" : "54",
+			"Y" : "234",
+			"Size" : "32, 32",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/gyorg_bw.png",
+				"./MM/gyorg.png"
+			]
+		},
+		{
+			"Name" : "Twinmold",
+			"X" : "54",
+			"Y" : "195",
+			"Size" : "32, 32",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/twinmold_bw.png",
+				"./MM/twinmold.png"
+			]
+		}
+	],
+	"Songs" : [
+		{
+			"Name" : "SongOfHealing",
+			"X" : "13",
+			"Y" : "111",
+			"Size" : "28, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/zeldas-lullaby-bw_32x40.png",
+				"./MM/zeldas-lullaby_32x40.png"
+			],
+			"TinyImageCollection" : [
+				"./MM/no-song_16x16.png",
+				"./MM/check-song_16x16.png"
+			]
+			
+		},
+		{
+			"Name" : "EponasSong",
+			"X" : "87",
+			"Y" : "111",
+			"Size" : "28, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/epona-bw_32x40.png",
+				"./MM/epona_32x40.png"
+			],
+			"TinyImageCollection" : [
+				"no-song_16x16.png",
+				"check-song_16x16.png"
+			]
+		},
+		{
+			"Name" : "SongOfStorm",
+			"X" : "124",
+			"Y" : "111",
+			"Size" : "28, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/song-of-storms-bw_32x40.png",
+				"./MM/song-of-storms_32x40.png"
+			],
+			"TinyImageCollection" : [
+				"no-song_16x16.png",
+				"check-song_16x16.png"
+			]
+		},
+		{
+			"Name" : "OathOfOrder",
+			"X" : "50",
+			"Y" : "111",
+			"Size" : "28, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/nocturne-bw_32x40.png",
+				"./MM/nocturne_32x40.png"
+			],
+			"TinyImageCollection" : [
+				"no-song_16x16.png",
+				"check-song_16x16.png"
+			]
+		},	
+		{
+			"Name" : "SonataOfAwakening",
+			"X" : "13", 
+			"Y" : "153",
+			"Size" : "28, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/minuet-bw_32x40.png",
+				"./MM/minuet_32x40.png"
+			],
+			"TinyImageCollection" : [
+				"no-song_16x16.png",
+				"check-song_16x16.png"
+			]
+		},
+		{
+			"Name" : "GoronLullaby",
+			"X" : "50",
+			"Y" : "153",
+			"Size" : "28, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/bolero-bw_32x40.png",
+				"./MM/bolero_32x40.png"
+			],
+			"TinyImageCollection" : [
+				"no-song_16x16.png",
+				"check-song_16x16.png"
+			]
+		},
+		{
+			"Name" : "NewWaveBossanova",
+			"X" : "87", 
+			"Y" : "153",
+			"Size" : "28, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/serenade-bw_32x40.png",
+				"./MM/serenade_32x40.png"
+			],
+			"TinyImageCollection" : [
+				"no-song_16x16.png",
+				"check-song_16x16.png"
+			]
+		},
+		{
+			"Name" : "Elegy",
+			"X" : "124", 
+			"Y" : "153",
+			"Size" : "28, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/requiem-bw_32x40.png",
+				"./MM/requiem_32x40.png"
+			],
+			"TinyImageCollection" : [
+				"no-song_16x16.png",
+				"check-song_16x16.png"
+			]
+		}
+	],
+	"GuaranteedHints" : [
+		{
+			"Name" : "Sisters Romani",
+			"X" : "5",
+			"Y" : "280",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Romani_Notebook_Portrait.png"
+			]
+		},	
+		{
+			"Name" : "Sisters Cremia",
+			"X" : "30",
+			"Y" : "280",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Cremia_Notebook_Portrait.png"
+			]
+		},
+		{
+			"Name" : "Butler Race",
+			"X" : "127",
+			"Y" : "280",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Deku_Bulter_Notebook_Portrait.png"
+			]
+		},
+		{
+			"Name" : "Boat Archery",
+			"X" : "152",
+			"Y" : "280",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Koume_Notebook_Portrait.png"
+			]
+		},		
+		{
+			"Name" : "Swamp Spider",
+			"X" : "245",
+			"Y" : "280",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/swamp_house.png"
+			]
+		},
+		{
+			"Name" : "Ocean Spider",
+			"X" : "270",
+			"Y" : "280",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/ocean_house.png"
+			]
+		},
+		{
+			"Name" : "Dampe Dig",
+			"X" : "95",
+			"Y" : "242",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/dampe.png"
+			]
+		}		
+	],
+	"GossipStones" : [
+		{
+			"Name" : "Romani_GossipStone",
+			"X" : "60",
+			"Y" : "280",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"		
+			]
+		},
+		{
+			"Name" : "Cremia_GossipStone",
+			"X" : "85",
+			"Y" : "280",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"			
+			]
+		},
+		{
+			"Name" : "Butler_GossipStone",
+			"X" : "182",
+			"Y" : "280",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"			
+			]
+		},
+		{
+			"Name" : "BoatArchery_GossipStone",
+			"X" : "207",
+			"Y" : "280",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"			
+			]
+		},
+		{
+			"Name" : "Dampe_GossipStone",
+			"X" : "120",
+			"Y" : "242",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"			
+			]
+		},
+		{
+			"Name" : "Swamp_spider_GossipStone",
+			"X" : "295",
+			"Y" : "280",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"			
+			]
+		},
+		{
+			"Name" : "Ocean_spider_GossipStone",
+			"X" : "320",
+			"Y" : "280",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"			
+			]
+		},
+		{
+			"Name" : "FreeNote3_GossipStone",
+			"X" : "320",
+			"Y" : "114",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"			
+			]
+		},
+		{
+			"Name" : "FreeNote4_GossipStone",
+			"X" : "320",
+			"Y" : "141",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"			
+			]
+		},
+		{
+			"Name" : "FreeNote5_GossipStone",
+			"X" : "320",
+			"Y" : "168",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"		
+			]
+		},
+		{
+			"Name" : "FreeNote6_GossipStone",
+			"X" : "320",
+			"Y" : "195",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"			
+			]
+		},
+		{
+			"Name" : "FreeNote7_GossipStone",
+			"X" : "320",
+			"Y" : "222",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"			
+			]
+		},
+		{
+			"Name" : "FreeNote8_GossipStone",
+			"X" : "320",
+			"Y" : "249",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"		
+			]
+		},
+		{
+			"Name" : "SometimesHint1_GossipStone",
+			"X" : "150",
+			"Y" : "315",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"			
+			]
+		},
+		{
+			"Name" : "SometimesHint2_GossipStone",
+			"X" : "320",
+			"Y" : "315",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png"				
+			]
+		}
+	],	
+	"GoMode": [
+		{
+			"Name" : "GoMode",
+			"X" : "106",
+			"Y" : "196",
+			"Size" : "32, 32",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"go-mode-bw_32x32.png",
+				"go-mode_32x32.png"
+			],
+			"BackgroundImage" : "go-mode-background.png"
+		}
+	],
+	"SometimesHints" : [
+		{
+			"Name" : "SometimesHint1",
+			"X" : "20",
+			"Y" : "315",
+			"Visible" : "true",
+			"BackColor" : "64,64,64",
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White",
+			"Width" : "125",
+			"Height" : "23"
+		},
+		{
+			"Name" : "SometimesHint2",
+			"X" : "190",
+			"Y" : "315",
+			"Visible" : "true",
+			"BackColor" : "64,64,64",
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White",
+			"Width" : "125",
+			"Height" : "23"
+		},
+		{
+			"Name" : "SometimesHint5",
+			"X" : "190",
+			"Y" : "114",
+			"Visible" : "true",
+			"BackColor" : "64,64,64",
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White",
+			"Width" : "125",
+			"Height" : "23"
+		},
+		{
+			"Name" : "SometimesHint6",
+			"X" : "190",
+			"Y" : "141",
+			"Visible" : "true",
+			"BackColor" : "64,64,64",
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White",
+			"Width" : "125",
+			"Height" : "23"
+		},
+		{
+			"Name" : "SometimesHint7",
+			"X" : "190",
+			"Y" : "168",
+			"Visible" : "true",
+			"BackColor" : "64,64,64",
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White",
+			"Width" : "125",
+			"Height" : "23"
+		},
+		{
+			"Name" : "SometimesHint8",
+			"X" : "190",
+			"Y" : "195",
+			"Visible" : "true",
+			"BackColor" : "64,64,64",
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White",
+			"Width" : "125",
+			"Height" : "23"
+		},
+		{
+			"Name" : "SometimesHint9",
+			"X" : "190",
+			"Y" : "222",
+			"Visible" : "true",
+			"BackColor" : "64,64,64",
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White",
+			"Width" : "125",
+			"Height" : "23"
+		},
+		{
+			"Name" : "SometimesHint10",
+			"X" : "190",
+			"Y" : "249",
+			"Visible" : "true",
+			"BackColor" : "64,64,64",
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White",
+			"Width" : "125",
+			"Height" : "23"
+		}
+
+	],
+	"Chronometers" : [
+		{
+			"Name" : "MainChronometer",
+			"X" : "95",
+			"Y" : "630",
+			"Visible" : "false",
+			"FontName" : "Calibri",
+			"FontSize" : "36",
+			"FontStyle" : "Bold",
+			"FontColor" : "White"
+		}
+	],
+	"PanelWoth" : [
+		{
+			"Name" : "MainPanelWoth",
+			"X" : "11",
+			"Y" : "350",
+			"Visible" : "true",
+			"BackColor" : "212,175,55",
+			"Width" : "332",
+			"Height" : "72",
+			"NbMaxRows" : "3",
+			"IsScrollable" : "true",
+			
+			"TextBoxName" : "TextBox_MainPanelWoth",
+			"TextBoxBackColor" : "0, 0, 0",
+			"TextBoxFontName" : "Calibri",
+			"TextBoxFontSize" : "11",
+			"TextBoxFontStyle" : "Bold",
+			"TextBoxWidth" : "222",
+			"TextBoxHeight" : "24",
+			"TextBoxText" : ":: Way of the Hero ::",
+			
+			"LabelColor": "0,0,0",
+			"LabelBackColor" : "240,230,140",
+			"LabelFontName" : "Calibri",
+			"LabelFontSize" : "11",
+			"LabelFontStyle" : "Bold",
+			"LabelWidth" : "222",
+			"LabelHeight" : "24",
+			
+			"GossipStoneSize" : "24, 24",
+			"GossipStoneImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"bottle-empty_32x32.png",
+				"bottle-big-poe_32x32.png"
+			]
+		}
+	],
+	"PanelBarren" : [
+		{
+			"Name" : "MainPanelBarren",
+			"X" : "11",
+			"Y" : "441",
+			"Visible" : "true",
+			"BackColor" : "80,54,107",
+			"Width" : "332",
+			"Height" : "72",
+			"NbMaxRows" : "3",
+			"IsScrollable" : "true",
+			
+			"TextBoxName" : "TextBox_MainPanelWoth",
+			"TextBoxBackColor" : "0, 0, 0",
+			"TextBoxFontName" : "Calibri",
+			"TextBoxFontSize" : "11",
+			"TextBoxFontStyle" : "Bold",
+			"TextBoxWidth" : "222",
+			"TextBoxHeight" : "24",
+			"TextBoxText" : ":: Barren ::",
+			
+			"LabelColor": "White",
+			"LabelBackColor" : "153,102,204",
+			"LabelFontName" : "Calibri",
+			"LabelFontSize" : "11",
+			"LabelFontStyle" : "Bold",
+			"LabelWidth" : "222",
+			"LabelHeight" : "24"
+		}
+	]
+}
