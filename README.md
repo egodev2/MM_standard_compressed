@@ -40,6 +40,6 @@ If you play OOTR, **DO NOT use a single application (gossip stones tracker) for 
 
 ## Authors
 
-* **Diego Martos Buoro** [dmb42odyssey](https://github.com/dmb42odyssey)
+* **Diego Martos Buoro** [egodev2](https://github.com/egodev2)
 
 ## Special thanks
