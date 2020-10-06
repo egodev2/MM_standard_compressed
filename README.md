@@ -4,11 +4,11 @@
   <img src="https://i.imgur.com/t4QMtvf.png" alt="Tracker Example" width="25%" height="25%" margin="auto"/>
 </p>
 
-An essential and compressed Majora Mask Randomizer layout for gossip stones tracker. This tracker was idealized to be played with the lastest standard settings from the MMR community.
+An essential and compressed Majora Mask Randomizer layout for gossip stones tracker. This tracker was idealized to be played with the lastest standard settings (version 1.12.1) from the MMR community considering the possible minimum itens requirements, thus excluding items that are considered junk. I will keep the layout updated as changes are needed.
 
 ## Installation
 
-If you play OOTR, **DO NOT use a single application (gossip stones tracker) for both games** . The reason is because some files are named after OOT in order to keep all functionalities such as dragging songs to its verified checks as weel keeping the hints consistent. Make sure to have application separated for each game. 
+If you play OOTR, **DO NOT use a single application (gossip stones tracker) for both games** . The reason is because some files are named after OOT in order to keep all functionalities such as dragging songs to its verified checks as well keeping the hints consistent. Make sure to have application separated for each game. 
 
 1. Download the .zip file and extract it.
 
@@ -20,12 +20,14 @@ If you play OOTR, **DO NOT use a single application (gossip stones tracker) for 
 
 1. All locations have a lowercase abrreviation shortcut, which comes from MMR region's text name for both woth and foolish. Also, prepositions between region words were considered (see example below). With one exception, you can follow these rules to find the desired location: 
      1. Region has a single word: Just type the first three characters. Ex: Woofall -> woo
-     2. Region has two words: Type the first character from the first word, plus the two first characters from the second word. Examples:
+     3. Region has two words: Type the first character from the first word, plus the two first characters from the second word OR the "t" (to, The) + the first character of the second word. Examples:
         - Pirate Interior -> pin
         - Pirate Sewers -> pse
         - Snowhead Temple -> ste
+        - Path to Snowhead -> pts
+        - Beneath the Well -> btw
         - Exception: Ikana Canyon -> ico (because ica is reserved for Ikana Castle)
-    3. Region has three words: the first character of each word. Ex: 
+     4. Region has three words: the first character of each word. Ex: 
         - Great Bay Coast -> gbc
         - Path To Snowhead -> pts 
 2. The Gibdo mask is an upgrade from Garo Mask.
@@ -36,9 +38,8 @@ If you play OOTR, **DO NOT use a single application (gossip stones tracker) for 
 ## Future Work
 
 1. Refactor layout's elements order.
-2. Redo some regions abbreviations.
-3. Fix Danpé's hint image.
-4. Classic layout (With N64 sprites)
+2. Fix Danpé's hint image.
+3. Classic layout (With N64 sprites)
 
 ## Authors
 
