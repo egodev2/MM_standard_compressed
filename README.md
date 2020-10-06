@@ -8,7 +8,7 @@ An essential and compressed Majora Mask Randomizer layout for gossip stones trac
 
 ## Installation
 
-If you play OOTR, **DO NOT use a single application (gossip stones tracker) for both games** . The reason is because some files are named after OOT in order to keep all functionalities such as dragging songs to its verified checks as weel keeping the hints consistent. Make sure to have applciation separated for each game. 
+If you play OOTR, **DO NOT use a single application (gossip stones tracker) for both games** . The reason is because some files are named after OOT in order to keep all functionalities such as dragging songs to its verified checks as weel keeping the hints consistent. Make sure to have application separated for each game. 
 
 1. Download the .zip file and extract it.
 
@@ -31,15 +31,21 @@ If you play OOTR, **DO NOT use a single application (gossip stones tracker) for 
 2. The Gibdo mask is an upgrade from Garo Mask.
 3. In the gossip stones, just click on it to cycle between Gold Dust, Chateau Romani, Letter to Kafei and Express to Mama.
 4. The right empty boxes are intended to be used as free places to remember an item's location. For sometimes hints, use the lower boxes.
+5. The all night mask will have golden glow behind when activated (see first screenshot). This was done to clear any confusion due to little changes in the sprite.
 
 ## Future Work
 
 1. Refactor layout's elements order.
-2. Classic layout (With N64 sprites)
-3. Fix Dampé's image.
+2. Redo some regions abbreviations.
+3. Fix Danpé's hint image.
+4. Classic layout (With N64 sprites)
 
 ## Authors
 
 * **Diego Martos Buoro** [egodev2](https://github.com/egodev2)
 
-## Special thanks
+## Special Thanks
+
+* [Tekky](https://github.com/TeknoAnonymous) and [BladeFangFT](https://github.com/BladefangFT) for the songs sprites that are present in this tracker.
+
+
