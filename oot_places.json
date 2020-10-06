@@ -5,7 +5,7 @@
 	"East Clock Town": "ect",
 	"Laundry Pool": "lpo",
 	"Stock Pot Inn": "spi",
-	"Termina field": "ter",
+	"Termina field": "tfi",
 	"Milk Road": "mro",
 	"Romani Ranch": "rra",
 	"Road to Swamp": "rts",
@@ -18,7 +18,7 @@
 	"Twin Islands": "tis",
 	"Goron Village": "gvi",
 	"Path to Snowhead": "pts",
-	"Snowhead": "sno",
+	"Snowhead": "snw",
 	"Snowhead Temple": "ste",
 	"Great Bay Coast": "gbc",
 	"Great Bay Temple": "gbt",
@@ -33,6 +33,6 @@
 	"Secret Shrine": "ssh",
 	"Ikana Castle": "ica",
 	"Beneath The Well": "btw",
-	"Stone Tower": "sto",
+	"Stone Tower": "stw",
 	"Stone Tower Temple": "stt"
 }
