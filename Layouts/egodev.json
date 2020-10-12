@@ -94,19 +94,8 @@
 			]
 		},		
 		{
-			"Name" : "beans",
-			"X" : "178",
-			"Y" : "38",
-			"Size" : "30, 30",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"./MM/OoT3D_Magic_Bean_Icon_bw.png",
-				"./MM/OoT3D_Magic_Bean_Icon.png"
-			]
-		},
-		{
 			"Name" : "Magic",
-			"X" : "73",
+			"X" : "71",
 			"Y" : "38",
 			"Size" : "30, 30",
 			"Visible" : "true",
@@ -118,7 +107,7 @@
 		},
 		{
 			"Name" : "MirrorShield",
-			"X" : "143",
+			"X" : "142",
 			"Y" : "38",
 			"Size" : "30, 30",
 			"Visible" : "true",
@@ -152,14 +141,14 @@
 			]
 		},
 		{
-			"Name" : "GreatFairySword",
+			"Name" : "KafeiMask",
 			"X" : "178",
 			"Y" : "3",
 			"Size" : "30, 30",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"./MM/MM3D_Great_Fairy's_Sword_Icon_bw.png",
-				"./MM/MM3D_Great_Fairy's_Sword_Icon.png"
+				"./MM/MM3D_Kafei's_Mask_Icon_bw.png",
+				"./MM/MM3D_Kafei's_Mask_Icon.png"
 			]
 		},
 		{
@@ -175,29 +164,6 @@
 			]
 		},
 		{
-			"Name" : "Bottle2",
-			"X" : "0",
-			"Y" : "0",
-			"Size" : "30, 30",
-			"Visible" : "false",
-			"ImageCollection" : [
-				"bottle-empty-bw_32x32.png",
-				"bottle-empty_32x32.png",
-				"bottle-milk_32x32.png",
-				"bottle-green_32x32.png",
-				"bottle-red_32x32.png",
-				"bottle-blue_32x32.png",
-				"bottle-fairy_32x32.png",
-				"bottle-bugs_32x32.png",
-				"bottle-poe_32x32.png",
-				"bottle-big-poe_32x32.png",
-				"bottle-blue-fire_32x32.png",
-				"bottle-fish_32x32.png",
-				"bottle-rutos-letter-bw_32x32.png",
-				"bottle-rutos-letter_32x32.png"
-			]
-		},
-		{
 			"Name" : "Bombs",
 			"X" : "105",
 			"Y" : "38",
@@ -210,7 +176,7 @@
 		},
 		{
 			"Name" : "Bottles",
-			"X" : "73",
+			"X" : "71",
 			"Y" : "73",
 			"Size" : "30, 30",
 			"Visible" : "true",
@@ -226,7 +192,7 @@
 		},
 		{
 			"Name" : "Powderkeg",
-			"X" : "108",
+			"X" : "106",
 			"Y" : "73",
 			"Size" : "30, 30",
 			"Visible" : "true",
@@ -237,7 +203,7 @@
 		},
 		{
 			"Name" : "lens",
-			"X" : "143",
+			"X" : "142",
 			"Y" : "73",
 			"Size" : "30, 30",
 			"Visible" : "true",
@@ -258,25 +224,36 @@
 			]
 		},
 		{
-			"Name" : "KafeiMask",
-			"X" : "216",
-			"Y" : "3",
+			"Name" : "GreatFairySword",
+			"X" : "178",
+			"Y" : "38",
 			"Size" : "30, 30",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"./MM/MM3D_Kafei's_Mask_Icon_bw.png",
-				"./MM/MM3D_Kafei's_Mask_Icon.png"
+				"./MM/MM3D_Great_Fairy's_Sword_Icon_bw.png",
+				"./MM/MM3D_Great_Fairy's_Sword_Icon.png"
 			]
 		},
 		{
 			"Name" : "KeatonMask",
-			"X" : "251",
+			"X" : "216",
 			"Y" : "3",
 			"Size" : "30, 30",
 			"Visible" : "true",
 			"ImageCollection" : [
 				"./MM/MM3D_Keaton_Mask_Icon_bw.png",
 				"./MM/MM3D_Keaton_Mask_Icon.png"
+			]
+		},
+		{
+			"Name" : "KamaroMask",
+			"X" : "251",
+			"Y" : "3",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Kamaro's_Mask_Icon_bw.png",
+				"./MM/MM3D_Kamaro's_Mask_Icon.png"
 			]
 		},
 		{
@@ -302,14 +279,14 @@
 			]
 		},
 		{
-			"Name" : "KamaroMask",
+			"Name" : "GaroMask",
 			"X" : "286",
 			"Y" : "3",
 			"Size" : "30, 30",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"./MM/MM3D_Kamaro's_Mask_Icon_bw.png",
-				"./MM/MM3D_Kamaro's_Mask_Icon.png"
+				"./MM/MM3D_Garo's_Mask_Icon_bw.png",
+				"./MM/MM3D_Garo's_Mask_Icon.png"
 			]
 		},
 		{
@@ -346,25 +323,24 @@
 			]
 		},
 		{
-			"Name" : "DeityMask",
+			"Name" : "PostMAnhatMask",
 			"X" : "321",
 			"Y" : "73",
 			"Size" : "30, 30",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"./MM/MM3D_Fierce_Deity's_Mask_Icon_bw.png",
-				"./MM/MM3D_Fierce_Deity's_Mask_Icon.png"
+				"./MM/MM3D_Postman's_Hat_Icon_bw.png",
+				"./MM/MM3D_Postman's_Hat_Icon.png"
 			]
 		},
 		{
-			"Name" : "GaroGibdoMask",
+			"Name" : "GibdoMask",
 			"X" : "321",
 			"Y" : "3",
 			"Size" : "30, 30",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"./MM/MM3D_Garo's_Mask_Icon_bw.png",
-				"./MM/MM3D_Garo's_Mask_Icon.png",
+				"./MM/MM3D_Gibdo_Mask_Icon_bw.png",
 				"./MM/MM3D_Gibdo_Mask_Icon.png"
 			]
 		},
@@ -458,7 +434,7 @@
 		},
 		{
 			"Name" : "Odolwa",
-			"X" : "13",
+			"X" : "3",
 			"Y" : "195",
 			"Size" : "32, 32",
 			"Visible" : "true",
@@ -469,7 +445,7 @@
 		},
 		{
 			"Name" : "Goth",
-			"X" : "13",
+			"X" : "3",
 			"Y" : "234",
 			"Size" : "32, 32",
 			"Visible" : "true",
@@ -479,8 +455,19 @@
 			]
 		},
 		{
+			"Name" : "FierceDeityMask",
+			"X" : "36",
+			"Y" : "214",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"./MM/MM3D_Fierce_Deity's_Mask_Icon_bw.png",
+				"./MM/MM3D_Fierce_Deity's_Mask_Icon.png"
+			]
+		},
+		{
 			"Name" : "Gyorg",
-			"X" : "54",
+			"X" : "67",
 			"Y" : "234",
 			"Size" : "32, 32",
 			"Visible" : "true",
@@ -491,7 +478,7 @@
 		},
 		{
 			"Name" : "Twinmold",
-			"X" : "54",
+			"X" : "67",
 			"Y" : "195",
 			"Size" : "32, 32",
 			"Visible" : "true",
@@ -687,7 +674,7 @@
 		},
 		{
 			"Name" : "Dampe Dig",
-			"X" : "95",
+			"X" : "105",
 			"Y" : "242",
 			"Size" : "24, 24",
 			"Visible" : "true",
@@ -709,7 +696,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"		
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"		
 			]
 		},
 		{
@@ -724,7 +712,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"			
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"			
 			]
 		},
 		{
@@ -739,7 +728,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"			
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"			
 			]
 		},
 		{
@@ -754,12 +744,13 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"			
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"			
 			]
 		},
 		{
 			"Name" : "Dampe_GossipStone",
-			"X" : "120",
+			"X" : "130",
 			"Y" : "242",
 			"Size" : "24, 24",
 			"Visible" : "true",
@@ -769,7 +760,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"			
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"			
 			]
 		},
 		{
@@ -784,7 +776,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"			
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"			
 			]
 		},
 		{
@@ -799,7 +792,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"			
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"			
 			]
 		},
 		{
@@ -814,7 +808,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"			
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"			
 			]
 		},
 		{
@@ -829,7 +824,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"			
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"			
 			]
 		},
 		{
@@ -844,7 +840,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"		
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"		
 			]
 		},
 		{
@@ -859,7 +856,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"			
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"			
 			]
 		},
 		{
@@ -874,7 +872,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"			
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"			
 			]
 		},
 		{
@@ -889,7 +888,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"		
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"		
 			]
 		},
 		{
@@ -904,7 +904,8 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"			
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"			
 			]
 		},
 		{
@@ -919,14 +920,15 @@
 				"./MM/MM3D_Gold_Dust_Icon.png",
 				"./MM/MM3D_Chateau_Romani_Icon.png",
 				"./MM/MM3D_Letter_to_Kafei_Icon.png",
-				"./MM/MM3D_Express.png"				
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"				
 			]
 		}
 	],	
 	"GoMode": [
 		{
 			"Name" : "GoMode",
-			"X" : "106",
+			"X" : "114",
 			"Y" : "196",
 			"Size" : "32, 32",
 			"Visible" : "true",
@@ -1089,8 +1091,11 @@
 			"GossipStoneImageCollection" : [
 				"gossip-stone-bw_32x32.png",
 				"sold-out_32x32.png",
-				"bottle-empty_32x32.png",
-				"bottle-big-poe_32x32.png"
+				"./MM/MM3D_Gold_Dust_Icon.png",
+				"./MM/MM3D_Chateau_Romani_Icon.png",
+				"./MM/MM3D_Letter_to_Kafei_Icon.png",
+				"./MM/MM3D_Express.png",
+				"./MM/OoT3D_Magic_Bean_Icon.png"
 			]
 		}
 	],
