@@ -1,10 +1,12 @@
 # MM_standard_compressed
 
 <p align="center">
-  <img src="https://i.imgur.com/t4QMtvf.png" alt="Tracker Example" width="25%" height="25%" margin="auto"/>
+  <img src="https://i.imgur.com/AoOW7rV.png" alt="Tracker Example" width="25%" height="25%" margin="auto"/>
 </p>
 
 An essential and compressed Majora Mask Randomizer layout for gossip stones tracker. This tracker was idealized to be played with the lastest standard settings (version 1.12.1) from the MMR community considering the possible minimum itens requirements, thus excluding items that are considered junk. I will keep the layout updated as changes are needed.
+
+**Version**: 1.01
 
 ## Installation
 
@@ -20,18 +22,19 @@ If you play OOTR, **DO NOT use a single application (gossip stones tracker) for 
 
 1. All locations have a lowercase abrreviation shortcut, which comes from MMR region's text name for both woth and foolish. Also, prepositions between region words were considered (see example below). With one exception, you can follow these rules to find the desired location: 
      1. Region has a single word: Just type the first three characters. Ex: Woofall -> woo
-     3. Region has two words: Type the first character from the first word, plus the two first characters from the second word OR the "t" (to, The) + the first character of the second word. Examples:
+     2. Region has two words: Type the first character from the first word, plus the two first characters from the second word OR the "t" (to, The) + the first character of the second word. Examples:
         - Pirate Interior -> pin
         - Pirate Sewers -> pse
         - Snowhead Temple -> ste
         - Path to Snowhead -> pts
         - Beneath the Well -> btw
-        - Exception: Ikana Canyon -> ico (because ica is reserved for Ikana Castle)
+     3. Exceptions: 
+        - Ikana Canyon -> ico (ica is reserved for Ikana Castle)
+        - Stone Tower -> stw (too many results for sto)
      4. Region has three words: the first character of each word. Ex: 
         - Great Bay Coast -> gbc
         - Path To Snowhead -> pts 
-2. The Gibdo mask is an upgrade from Garo Mask.
-3. In the gossip stones, just click on it to cycle between Gold Dust, Chateau Romani, Letter to Kafei and Express to Mama.
+3. In the gossip stones, just click on it to cycle between Gold Dust, Chateau Romani, Letter to Kafei, Express to Mama and Bean.
 4. The right empty boxes are intended to be used as free places to remember an item's location. For sometimes hints, use the lower boxes.
 5. The all night mask will have golden glow behind when activated (see first screenshot). This was done to clear any confusion due to little changes in the sprite.
 
@@ -39,6 +42,7 @@ If you play OOTR, **DO NOT use a single application (gossip stones tracker) for 
 
 1. Refactor layout's elements order.
 2. Fix Danpé's hint image.
+4. Lite Layout (without boxes to write item places)
 3. Classic layout (With N64 sprites)
 
 ## Authors
