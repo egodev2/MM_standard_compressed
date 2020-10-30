@@ -10,7 +10,7 @@ An essential and compressed Majora Mask Randomizer layout for gossip stones trac
 
 ## Installation
 
-If you play OOTR, **DO NOT use a single application (gossip stones tracker) for both games** . The reason is because some files are named after OOT in order to keep all functionalities such as dragging songs to its verified checks as well keeping the hints consistent. Make sure to have application separated for each game. 
+If you play OOTR, **DO NOT use a single application (gossip stones tracker) for both games** . The reason is because some files are named after OOT in order to keep all functionalities such as dragging songs to its verified checks as well keeping the hints consistent. Make sure to have an application (i.e, create a new folder and extract the lastest version of the gossipstones tracker there) separated for each game. 
 
 1. Download the .zip file and extract it.
 
